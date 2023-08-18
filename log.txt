@@ -1,0 +1,3 @@
+06/13/2023 03:32:07 PM Feed Money:          Input/Output: $5.00       Balance: $5.00      
+06/13/2023 03:32:11 PM Potato Crisps        Input/Output: $3.05       Balance: $1.95      
+06/13/2023 03:32:13 PM Dispense Change:     Input/Output: $1.95       Balance: $0.00      
